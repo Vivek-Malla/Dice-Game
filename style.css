@@ -1,0 +1,32 @@
+body{
+    background-color: #393E46;
+}
+.heading{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.heading h1{
+    font-size: 65px;
+    text-decoration: underline;
+    color: rgb(95, 95, 255);
+    font-family: 'Lobster', cursive;
+}
+.player{
+    text-align: center;
+    display: inline-block;
+}
+.player h3{
+    font-size: 30px;
+    color: aqua;
+    margin: 40px;
+    font-family: 'Indie Flower', cursive;
+}
+img{
+    width: 70%;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 400px;
+}
